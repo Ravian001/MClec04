@@ -21,10 +21,12 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <Button
+            android:id="@+id/hassanbutton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Click"/>
         <TextView
+            android:id="@+id/hassantext"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="بسم اللہ الرحمن الرحیم"
